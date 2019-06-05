@@ -1,0 +1,7 @@
+*.pyc
+data/
+
+.vscode/
+log/
+
+scannet/log/
